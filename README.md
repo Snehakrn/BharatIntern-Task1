@@ -25,10 +25,6 @@ This project is a clone of the Netflix login page, created using HTML, CSS, and 
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. 🤝🙌
 
-## License 📄
-
-This project is licensed under the [MIT License](LICENSE). 📜📄
-
 ## Acknowledgements 🙏
 
 - This project is inspired by the original Netflix login page.
